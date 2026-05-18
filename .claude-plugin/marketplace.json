@@ -1,0 +1,72 @@
+{
+  "name": "hubspot",
+  "owner": {
+    "name": "Hubspot"
+  },
+  "description": "Claude Code marketplace federating every @amlplugins/hubspot-* plugin under a single marketplace source.",
+  "plugins": [
+    {
+      "name": "hubspot-automation-workflows",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/hubspot-automation-workflows.git"
+      }
+    },
+    {
+      "name": "hubspot-cms-pages",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/hubspot-cms-pages.git"
+      }
+    },
+    {
+      "name": "hubspot-conversations",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/hubspot-conversations.git"
+      }
+    },
+    {
+      "name": "hubspot-crm-companies",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/hubspot-crm-companies.git"
+      }
+    },
+    {
+      "name": "hubspot-crm-contacts",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/hubspot-crm-contacts.git"
+      }
+    },
+    {
+      "name": "hubspot-crm-deals",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/hubspot-crm-deals.git"
+      }
+    },
+    {
+      "name": "hubspot-crm-tickets",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/hubspot-crm-tickets.git"
+      }
+    },
+    {
+      "name": "hubspot-marketing-emails",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/hubspot-marketing-emails.git"
+      }
+    },
+    {
+      "name": "hubspot-marketing-forms",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/hubspot-marketing-forms.git"
+      }
+    }
+  ]
+}
